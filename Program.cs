@@ -13,8 +13,8 @@ namespace MinutesToHours
             while (true)
             {
                 Console.WriteLine("Please enter the type you want to convert. Minutes or Hours.");
-                string type = Console.ReadLine();
-                if (type == "Minutes" ||type == "Minute" || type == "minutes" || type == "mins" || type == "min" || type == "Min"|| type == "Mins" || type == "minute")
+                string type = Console.ReadLine().ToLower();
+                if (type == "minutes" || type == "minute")
                 {
                     double min, remainderMin;
                     Console.WriteLine("Please enter number of minutes.");
@@ -39,7 +39,7 @@ namespace MinutesToHours
                         Console.WriteLine("Please enter a positive value.");
                     }
                 }
-                else if (type == "Hours" || type == "hours" || type == "Hour" || type == "hour")
+                else if (type == "hours" || type == "hour")
                 {
                     double hour, min;
                     Console.WriteLine("Please enter hours.");
