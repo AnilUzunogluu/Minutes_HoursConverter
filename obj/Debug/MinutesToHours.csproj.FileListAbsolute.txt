@@ -1,0 +1,8 @@
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\bin\Debug\MinutesToHours.exe.config
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\bin\Debug\MinutesToHours.exe
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\bin\Debug\MinutesToHours.pdb
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\obj\Debug\MinutesToHours.csproj.AssemblyReference.cache
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\obj\Debug\MinutesToHours.csproj.SuggestedBindingRedirects.cache
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\obj\Debug\MinutesToHours.csproj.CoreCompileInputs.cache
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\obj\Debug\MinutesToHours.exe
+D:\AllCodingStuff\Projects\CSharpCourse\MinutesToHours\obj\Debug\MinutesToHours.pdb
